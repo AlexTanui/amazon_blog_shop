@@ -1,5 +1,7 @@
 
 
+### Project folder structure
+
 ### Backend Folder Structure
 
 ```
@@ -151,4 +153,8 @@ amazon_shop_blog/
   - **.env.production**: Environment variables for production.
 - **package.json**: Lists the JavaScript dependencies and scripts for the React application.
 
-This structure ensures a clean separation of concerns, making it easier to maintain and scale both the backend and frontend parts of the application.
+This structure will guide you in whatever you want to code in thuis project.
+Kindly ensure you adhere to this structure and avaoid making unnneseary changes.
+project time line 2 months 
+
+note: do not push any undone chnages in production always use the dvelopment branch.
